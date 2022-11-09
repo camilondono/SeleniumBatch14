@@ -41,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.frames">
+  <component name="RunManager" selected="Application.HWone">
     <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class006.Alerts" />
       <module name="SeleniumBatch14" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAllLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class005.GetAllLinks" />
+    <configuration name="HW1facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class005.HW1facebook" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class005.HW1facebook" />
+    <configuration name="HWone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class006.HWone" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class005.*" />
+          <option name="PATTERN" value="Class006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HWone" />
         <item itemvalue="Application.frames" />
         <item itemvalue="Application.demoOne" />
         <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.HW1facebook" />
-        <item itemvalue="Application.GetAllLinks" />
       </list>
     </recent_temporary>
   </component>
