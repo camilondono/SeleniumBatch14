@@ -41,13 +41,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW1facebook">
-    <configuration name="EbayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass002.EbayDemo" />
+  <component name="RunManager" selected="Application.frames">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class006.Alerts" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass002.*" />
+          <option name="PATTERN" value="Class006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2ebay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class005.HW2ebay" />
+    <configuration name="demoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class006.demoOne" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class005.*" />
+          <option name="PATTERN" value="Class006.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,26 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass002.dropDown" />
+    <configuration name="frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames" />
       <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReviewClass002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.frames" />
+        <item itemvalue="Application.demoOne" />
+        <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.HW1facebook" />
         <item itemvalue="Application.GetAllLinks" />
-        <item itemvalue="Application.HW2ebay" />
-        <item itemvalue="Application.dropDown" />
-        <item itemvalue="Application.EbayDemo" />
       </list>
     </recent_temporary>
   </component>
