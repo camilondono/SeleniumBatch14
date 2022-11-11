@@ -41,13 +41,39 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Wait">
-    <configuration name="HWone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class006.HWone" />
+  <component name="RunManager" selected="Application.implicitWay">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass003.Alerts" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class006.*" />
+          <option name="PATTERN" value="ReviewClass003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HWFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class007.HWFrames" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HWwindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class007.HWwindowHandle" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class007.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,34 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandlingAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class007.WindowHandlingAdvance" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class007.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="implicitWaits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class007.implicitWaits" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class007.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="windowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class007.windowHandle" />
+    <configuration name="implicitWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class007.implicitWay" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.implicitWay" />
+        <item itemvalue="Application.HWwindowHandle" />
+        <item itemvalue="Application.HWFrames" />
+        <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.Wait" />
-        <item itemvalue="Application.implicitWaits" />
-        <item itemvalue="Application.WindowHandlingAdvance" />
-        <item itemvalue="Application.windowHandle" />
-        <item itemvalue="Application.HWone" />
       </list>
     </recent_temporary>
   </component>
