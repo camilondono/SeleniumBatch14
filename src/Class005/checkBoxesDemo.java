@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.List;
 
 public class checkBoxesDemo {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
 
         System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
@@ -24,6 +24,7 @@ public class checkBoxesDemo {
             String optionName = checkBox.getAttribute("value");
 //            if condition to make sure it is the right checkbox
             if (optionName.equalsIgnoreCase("Option-2")) {
+                Thread.sleep(2000);
 //                if passed click on it
                 checkBox.click();
             }

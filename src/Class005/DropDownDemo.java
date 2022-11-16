@@ -37,6 +37,7 @@ public class DropDownDemo {
            // System.out.println(option.getText()); // commented out
             String text = option.getText();
             if(text.equalsIgnoreCase("Friday")){
+                Thread.sleep(3000);
                 select.selectByIndex(i);
             }
 

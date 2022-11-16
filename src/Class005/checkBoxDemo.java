@@ -15,6 +15,7 @@ public class checkBoxDemo {
         driver.manage().window().maximize();
         // find the check box
         WebElement checkBox = driver.findElement(By.id("isAgeSelected"));
+        //WebElement checkBox = driver.findElement(By.xpath(//input[@id='isAgeSelected'])); // another way by xpath not id
         // click on it
         checkBox.click();
     }
