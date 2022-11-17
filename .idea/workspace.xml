@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5efc87fc-d040-485b-8cd6-8ba528ff3d8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/DropDownDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/DropDownDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/checkBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/checkBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/checkBoxesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch14/Class005/checkBoxesDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class005/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class005/DropDownDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class005/checkBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class005/checkBoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class005/checkBoxesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class005/checkBoxesDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +41,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.class8HW">
-    <configuration name="HWFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class007.HWFrames" />
+  <component name="RunManager" selected="Application.Class009.class8HW">
+    <configuration name="Class009.class8HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class009.class8HW" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class007.*" />
+          <option name="PATTERN" value="Class009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +55,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class006.HWone" />
+    <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class009.DynamicReview" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class006.*" />
+          <option name="PATTERN" value="Class009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class009.DynamicTables" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HWwaits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class007.HWwaits" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class007.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,39 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tableBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class008.tableBasic" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class008.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="waitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class008.waitsDemo" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class008.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class009.class8HW" />
+        <item itemvalue="Application.HWwaits" />
+        <item itemvalue="Application.DynamicReview" />
+        <item itemvalue="Application.DynamicTables" />
         <item itemvalue="Application.class8HW" />
-        <item itemvalue="Application.tableBasic" />
-        <item itemvalue="Application.waitsDemo" />
-        <item itemvalue="Application.HWFrames" />
-        <item itemvalue="Application.HWone" />
       </list>
     </recent_temporary>
   </component>
